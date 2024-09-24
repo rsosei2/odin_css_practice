@@ -1,0 +1,58 @@
+/* style.css */
+ div#header{
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+.odd{
+    background-color: pink;
+    font-family: "Dejavu Sans"; Verdana; sans-serif;
+ }
+.adjust-font-size{
+                  font-size: 24px;
+ }
+ #four{
+    background-color: lightgreen;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+ }
+ #two{
+    color: blue;
+    font-size: 36px;
+    background-color: transparent;
+    text-align: left;
+ }
+ .first{
+    background-color: black;
+    color: white;
+ }
+ .second{
+    background-color: yellow;
+    color: black;
+ }
+ .first,
+ .second{
+    font-size: 28px;
+    font-family: Helvetica; "Times New Roman"; sans-serif;
+ }
+ .green.date{
+    height: auto;
+    width: 300px;
+    background-color: white;
+    align-items: normal;
+ }
+ .book.pen{
+    height: 400px; 
+    width: 200px;
+    background-color: white;
+    align-items: normal;
+ }
+ p.style{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+ }
