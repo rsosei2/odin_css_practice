@@ -1,14 +1,17 @@
 /* style.css */
+*{
+   outline: 2px solid rgb(29, 86, 36);
+}
  div#header{
     color: white;
-    background-color: red;
+    background-color: rgb(225, 12, 8);
     text-align: center;
     font-size: 32px;
     font-weight: bold;
 }
 .odd{
     background-color: pink;
-    font-family: "Dejavu Sans"; Verdana; sans-serif;
+    font-family: "Dejavu Sans"; Verdana: sans-serif;
  }
 .adjust-font-size{
                   font-size: 24px;
@@ -36,7 +39,7 @@
  .first,
  .second{
     font-size: 28px;
-    font-family: Helvetica; "Times New Roman"; sans-serif;
+    font-family: Helvetica; Times_New_Roman: sans-serif;
  }
  .green.date{
     height: auto;
@@ -55,4 +58,28 @@
     color: red;
     font-size: 20px;
     text-align: center;
+ }
+ p.paragraph{
+   font-weight: bold;
+   font-size: 40px;
+ }
+ p.small.graph{
+   font-weight: bold;
+   font-size: 20px;
+ }
+ .confirm{
+   background-color: green;
+   color: white;
+ }
+ div.thin{
+   font-weight: lighter;
+   font-size: 40px;
+ }
+ div.child{
+   font-weight: lighter;
+   font-size: 40px;
+ }
+ div.extra{
+   font-weight: bold;
+   font-size: 20px;
  }
