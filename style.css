@@ -1,7 +1,4 @@
 /* style.css */
-*{
-   outline: 2px solid rgb(29, 86, 36);
-}
  div#header{
     color: white;
     background-color: rgb(225, 12, 8);
@@ -83,3 +80,48 @@
    font-weight: bold;
    font-size: 20px;
  }
+ .highlight{
+   background-color: yellow;
+ }
+ .one{
+   outline: 2px solid;
+   padding: 25px;
+   border: 32px;
+   margin-left: 100px;
+   margin-right: 100px;
+   background-color: rgb(165, 174, 235);
+ } 
+ .two{
+   outline: 2px solid;
+   padding: 1px;
+   margin-left: 80px;
+   margin-right: 90px;
+   margin-top: 20px;
+   background-color: rgb(237, 134, 213);
+
+ }
+ .three{
+   margin-top: 48px;
+   margin-left: 800px;
+   text-align: left;
+   outline: 2px solid;
+   padding: 25px;
+   margin-right: 100px;
+   background-color: rgb(220, 155, 155);
+ }
+.father{
+   outline: 2px solid none;
+}
+.card{
+   background-color: rgb(172, 243, 243);
+   padding: 20px; 
+}
+.content{
+   background-color: rgb(172, 243, 243);
+   padding: 20px;
+}
+.big{
+   background-color: rgb(172, 243, 243);
+   padding: 20px;
+   text-align: center;
+}
